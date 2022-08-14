@@ -26,7 +26,15 @@ const emojipedia = [
       name: "Naughty Mind",
       meaning:
         "Funny person who takes life as chill and never has any tension , funky mind "
+    },
+    {
+      id: 5,
+      emoji: "😍",
+      name: "Love on first sight",
+      meaning:
+        "Seeing something and instantly falling in love with"
     }
+    
   ];
   export default emojipedia;
   
