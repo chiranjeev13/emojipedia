@@ -28,7 +28,7 @@ const emojipedia = [
         "Funny person who takes life as chill and never has any tension , funky mind "
     },
      {
-      id: 5,
+      id: 6,
       emoji: "🥹",
       name: "smiling face holding back tears",
       meaning:
