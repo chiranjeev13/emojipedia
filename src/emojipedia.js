@@ -33,7 +33,13 @@ const emojipedia = [
       name: "smiling face holding back tears",
       meaning:
         "A person who is so happy that his eyes are filled with tears "
-     }
+     },
+    {
+        id: 6,
+        emoji: "😅",
+        name:"grinning face with sweat",
+        meaning:"Person who is feeling awkward about a situation"
+    }
     
   ];
   export default emojipedia;
